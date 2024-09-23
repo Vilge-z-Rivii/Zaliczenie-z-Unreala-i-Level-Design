@@ -1,0 +1,15 @@
+2024/09/17-10:47:19.119 1d10 Reusing MANIFEST C:/Users/user/Documents/Unreal Projects/Gothic2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/17-10:47:19.119 1d10 Recovering log #7
+2024/09/17-10:47:19.120 1d10 Reusing old log C:/Users/user/Documents/Unreal Projects/Gothic2/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 
+2024/09/17-11:38:53.687 1d7c Level-0 table #11: started
+2024/09/17-11:38:53.727 1d7c Level-0 table #11: 190 bytes OK
+2024/09/17-11:38:53.759 1d7c Delete type=0 #7
+2024/09/17-11:38:53.759 1d7c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/09/17-11:38:53.771 1d7c Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2024/09/17-11:38:53.771 1d7c Compacting 1@1 + 1@2 files
+2024/09/17-11:38:53.823 1d7c Generated table #12@1: 18 keys, 534 bytes
+2024/09/17-11:38:53.823 1d7c Compacted 1@1 + 1@2 files => 534 bytes
+2024/09/17-11:38:53.867 1d7c compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/09/17-11:38:53.868 1d7c Delete type=2 #5
+2024/09/17-11:38:53.868 1d7c Delete type=2 #11
+2024/09/17-11:38:53.869 1d7c Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
